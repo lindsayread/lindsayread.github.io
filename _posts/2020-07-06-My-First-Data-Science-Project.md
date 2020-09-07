@@ -15,10 +15,18 @@ At the start of this project, my team discussed several ideas of what we could d
 
 Once we had a general idea of what sort of insights we wanted to discover, we needed to find a dataset (or several data sets) that we could analyze to transform these insights. The first, and main, dataset that we used is [Turnstile Data](http://web.mta.info/developers/turnstile.html), which contains ridership information for the MTA Subways in New York City for all weeks from 10/18/14 to the current week. We decided to look specifically at the 2 months leading up to the gala (April and May 2019), as people riding the subway during these dates are more likely to still be around in a month or two when the gala is taking place.
 
-Next, we needed to clean our data so we could actually use it and apply it towards our goal insights. 
+After quite a bit of cleaning the data, we were able to provide some key insights for Women Tech Women Yes to guide them with the best days, times, and locations to deploy their street team. 
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
+We suggested prioritizing weekday afternoons (between 6 and 8 pm), as these times are typically the busiest at most stations.
 
-> Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+![Best Days](tech1.png)
 
-It's an immensely useful tool. Find out more by [visiting the project on GitHub](https://github.com/jekyll/jekyll).
+![Best Times](tech2.png)
+
+We also identified 8 key stations to focus on, based on both the traffic volume at those stations (Grand Central-42 St, 34 St-Herald Sq, 42 St-Port Authority, 14 St-Union Sq, Times Sq-42 St, Broadway-Laffayette, Spring St, and 3 Ave.) , as well as the proximity to tech centers and Universities.
+
+![Key Stations]()
+
+If there was only one station to place their team, we suggested deploying them to 14 St-Union Sq as this location was both close to tech centers and Universities and it is one of the busiest MTA stations overall.
+
+
