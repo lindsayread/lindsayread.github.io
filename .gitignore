@@ -1,0 +1,7 @@
+# Hugo build directories
+/public/
+/resources/
+/resources/_gen/
+
+# Optional: If using special Hugo pipes
+*.content
