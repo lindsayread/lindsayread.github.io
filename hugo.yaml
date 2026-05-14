@@ -51,9 +51,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Welcome! \U0001F44B"
-    subtitle: "This is the website of **Lindsay Read** and
-    I create educational content on data science and bioinformatics.
-    Some of you may know me as the **Data Professor**."
+    subtitle: "This is the website of **Lindsay Read**"
     imageUrl: "images/cropped.png"
     imageWidth: 400
     imageHeight: 400
@@ -138,6 +136,10 @@ menu:
       name: Education
       url: /education/
       weight: 4
+    - identifier: gallery
+      name: Gallery
+      url: /gallery/
+      weight: 4  
     #- identifier: tags
     #  name: tags
     #  url: /tags/
